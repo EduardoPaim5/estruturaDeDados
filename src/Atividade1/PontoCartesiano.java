@@ -1,3 +1,4 @@
+package Atividade1;
 
 public class PontoCartesiano {
     double x1;
