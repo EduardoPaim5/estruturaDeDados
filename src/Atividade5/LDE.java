@@ -110,7 +110,6 @@ public class LDE implements Lista {
         }
     }
 
-
     @Override
     public int tamanho() {
         Noh p = inicio;
