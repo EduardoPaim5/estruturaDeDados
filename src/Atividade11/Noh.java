@@ -1,7 +1,6 @@
-package Atividade4;
+package Atividade11;
 
 public class Noh {
-
     private Object o;
     private Noh prox;
 
